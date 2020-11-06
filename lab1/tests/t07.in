@@ -1,0 +1,8 @@
+debug off
+stopwords on
+load a_tracks.txt
+filter title
+filter stopwords
+count tracks
+count words
+count characters

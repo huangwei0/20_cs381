@@ -1,0 +1,7 @@
+debug off
+load b_tracks.txt
+filter title
+filter punctuation
+count tracks
+count words
+count characters
