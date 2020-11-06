@@ -1,0 +1,5 @@
+debug off
+stopwords on
+load a_tracks.txt
+preprocess
+mcw amor

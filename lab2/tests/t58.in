@@ -1,0 +1,13 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+length 1
+sequence I
+sequence have
+sequence a
+sequence lot
+sequence to
+sequence say
+length 100
+sequence about 

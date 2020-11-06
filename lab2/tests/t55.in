@@ -1,0 +1,9 @@
+debug off
+stopwords on
+load tracks.txt
+preprocess
+length 100
+sequence bigly
+sequence covfefe
+sequence nambia
+sequence braggadocio

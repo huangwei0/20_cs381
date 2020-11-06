@@ -1,0 +1,13 @@
+debug off
+stopwords off
+length 10
+load tracks.txt
+preprocess
+sequence howdy
+sequence hello
+sequence hola
+sequence gutentag
+sequence ciao
+sequence bonjour
+sequence ola
+sequence hej

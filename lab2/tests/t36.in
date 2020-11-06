@@ -1,0 +1,10 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+mcw never
+mcw going
+mcw to
+mcw give
+mcw you
+mcw up

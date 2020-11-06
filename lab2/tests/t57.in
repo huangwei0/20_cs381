@@ -1,0 +1,20 @@
+debug off
+stopwords on
+load tracks.txt
+preprocess
+length 1
+sequence A
+length 2
+sequence B
+length 3
+sequence C
+length 4
+sequence D
+length 5
+sequence E
+length 6
+sequence F
+length 7
+sequence G
+length 8
+sequence H

@@ -1,0 +1,11 @@
+debug off
+stopwords off
+length 10
+load tracks.txt
+preprocess
+sequence short
+sequence float
+sequence double
+sequence boolean
+sequence character
+sequence string

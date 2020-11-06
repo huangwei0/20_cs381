@@ -1,0 +1,7 @@
+debug off
+stopwords on
+load a_tracks.txt
+preprocess
+mcw love
+mcw you
+mcw happy

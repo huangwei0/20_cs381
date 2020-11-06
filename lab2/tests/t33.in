@@ -1,0 +1,6 @@
+debug off
+stopwords on
+load tracks.txt
+preprocess
+mcw hello
+mcw word

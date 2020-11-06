@@ -1,0 +1,14 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+length 2
+sequence never
+length 5
+sequence going
+length 8
+sequence to
+length 10
+sequence say
+length 100
+sequence goodbye

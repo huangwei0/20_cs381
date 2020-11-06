@@ -1,0 +1,12 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+length 2
+sequence ain't
+length 5
+sequence nuthin
+length 10
+sequence but
+length 15
+sequence a

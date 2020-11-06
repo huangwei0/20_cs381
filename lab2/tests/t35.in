@@ -1,0 +1,10 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+mcw to
+mcw be
+mcw or
+mcw not
+mcw 2
+mcw bee

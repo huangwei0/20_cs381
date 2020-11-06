@@ -1,0 +1,9 @@
+debug off
+stopwords on
+length 10
+load tracks.txt
+preprocess
+sequence you
+sequence now
+sequence love
+sequence pearl

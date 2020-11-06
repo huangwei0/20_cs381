@@ -1,0 +1,7 @@
+debug off
+stopwords off
+length 10
+load tracks.txt
+preprocess
+sequence pearl
+sequence problems

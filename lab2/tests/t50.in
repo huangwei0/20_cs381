@@ -1,0 +1,7 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+length 5
+sequence hello
+sequence world

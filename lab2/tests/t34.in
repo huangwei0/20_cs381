@@ -1,0 +1,10 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+mcw ain't
+mcw nobody
+mcw got
+mcw time
+mcw for
+mcw that

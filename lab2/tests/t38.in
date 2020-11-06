@@ -1,0 +1,9 @@
+debug off
+stopwords on
+load tracks.txt
+preprocess
+mcw were
+mcw you
+mcw expecting
+mcw something
+mcw else
