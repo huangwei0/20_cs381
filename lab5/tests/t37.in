@@ -1,0 +1,4 @@
+findall(Z, sister(Z, 'Charles, Prince of Wales'), X), 
+print(X), 
+print('\n'), 
+halt.

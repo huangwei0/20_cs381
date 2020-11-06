@@ -1,0 +1,4 @@
+findall(Z, brother('Charles, Prince of Wales', Z), Y), 
+print(Y), 
+print('\n'), 
+halt.

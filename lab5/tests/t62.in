@@ -1,0 +1,4 @@
+findall(Z, grandmother(Z, 'Queen Elizabeth II'), X), 
+print(X), 
+print('\n'), 
+halt.

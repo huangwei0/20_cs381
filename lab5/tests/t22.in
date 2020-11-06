@@ -1,0 +1,4 @@
+findall(Z, daughter(Z, 'Queen Victoria'), X), 
+print(X), 
+print('\n'), 
+halt.

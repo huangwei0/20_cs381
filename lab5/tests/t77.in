@@ -1,0 +1,4 @@
+findall(Z, older(Z, 'Prince Henry of Wales'), X), 
+print(X), 
+print('\n'), 
+halt.

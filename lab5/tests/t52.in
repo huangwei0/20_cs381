@@ -1,0 +1,4 @@
+findall(Z, aunt('Queen Elizabeth II', Z), Y), 
+print(Y), 
+print('\n'), 
+halt.

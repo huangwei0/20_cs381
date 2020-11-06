@@ -1,0 +1,7 @@
+( father('Queen Elizabeth II', Y) 
+  -> Y = true 
+  ;  Y = false 
+),
+print(Y), 
+print('\n'), 
+halt.
